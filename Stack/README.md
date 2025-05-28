@@ -1,12 +1,12 @@
-# 🧱 Stack-Based Problems Series in Java – Inspired by Aditya Verma
+# 🧱 Java Solutions to Stack-Based Problems from Aditya Verma's Playlist
 
-This repository provides Java implementations for classic **Stack-based algorithm problems**, guided by the excellent explanations in [Aditya Verma's YouTube Series](https://youtube.com/playlist?list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd&si=M40QMsPUdOG6-To5). Whether you're preparing for coding interviews or brushing up on your DSA skills, this collection will be your handy companion.
+This repository contains **Java implementations** of classic **stack-based problems** taught in [Aditya Verma's YouTube series](https://youtube.com/playlist?list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd&si=M40QMsPUdOG6-To5). These are direct solutions based on his video tutorials and follow the same problem order and logic.
 
 ---
 
 ## 📘 About the Repository
 
-This repo includes clean and beginner-friendly Java code for problems based on stack concepts. Each file name matches the corresponding problem topic, making navigation simple and intuitive.
+Each problem discussed in the playlist is solved in Java with clear, beginner-friendly code. File names are intuitive and correspond to the exact topic covered in the video, making it easy to navigate and follow along.
 
 ---
 
@@ -18,11 +18,11 @@ This repo includes clean and beginner-friendly Java code for problems based on s
 | 2 | Maximum Area Histogram | `maxAreaHistogram.java` |
 | 3 | Minimum Element Without Extra Space | `minElementWithoutSpace.java` |
 | 4 | Minimum Element With Extra Space | `minElementWithSpace.java` |
-| 5 | Next Greater Element | `nextGreaterElement.java` |
+| 5 | Next Greater Element (to right) | `nextGreaterElement.java` |
 | 6 | Next Greater Element to Left | `nextGreaterLeft.java` |
 | 7 | Index of Next Greater Element to Left | `nextGreaterLeftIndex.java` |
 | 8 | Index of Next Greater Element to Right | `nextGreaterRightIndex.java` |
-| 9 | Next Smaller Element | `nextSmallerElement.java` |
+| 9 | Next Smaller Element (to right) | `nextSmallerElement.java` |
 | 10 | Next Smaller Element to Left | `nextSmallerLeft.java` |
 | 11 | Index of Next Smaller Element to Left | `nextSmallerLeftIndex.java` |
 | 12 | Index of Next Smaller Element to Right | `nextSmallerRightIndex.java` |
@@ -31,12 +31,12 @@ This repo includes clean and beginner-friendly Java code for problems based on s
 
 ---
 
-## 🎓 Credits
+## 🎓 Source & Credits
 
 - 👨‍🏫 **Aditya Verma** – [LinkedIn](https://www.linkedin.com/in/adityaverma1999/)
 - 📺 [Stack-Based Playlist on YouTube](https://youtube.com/playlist?list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd&si=M40QMsPUdOG6-To5)
 
-> All educational resources belong to Aditya Verma. This repository is created for learning purposes only.
+> These solutions are strictly based on Aditya Verma’s original video content. All rights to the educational content belong to him.
 
 ---
 
@@ -55,4 +55,4 @@ This repo includes clean and beginner-friendly Java code for problems based on s
 
 ---
 
-⭐ If this repo helped you understand stack problems better, don’t forget to give it a star!
+⭐ If you found this helpful for your DSA prep, consider giving the repo a star!
