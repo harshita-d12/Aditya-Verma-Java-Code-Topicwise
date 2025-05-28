@@ -1,69 +1,59 @@
-# 🏗️ Stack Algorithms in Java
+# 🚀 Stack Algorithm Series in Java – Aditya Verma Playlist
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKUM3IgJBX2as9O/giphy.gif" width="400" alt="Stack Operations">
-  <br>
-  <em>Complete implementations of stack-based algorithms from Aditya Verma's playlist</em>
-</p>
+This repository contains Java implementations of popular **Stack** problems, inspired by the brilliant video explanations by [Aditya Verma](https://www.linkedin.com/in/adityaverma1999/). Follow along with the [YouTube Playlist](https://youtube.com/playlist?list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd&si=M40QMsPUdOG6-To5) to learn and code these problems step by step.
 
-<div align="center">
+---
 
-[![Java](https://img.shields.io/badge/Java-17-%23ED8B00.svg?logo=java&logoColor=white)](https://java.com)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-green.svg)](https://github.com/harshita-d12/Stack-Algorithms/commits/main)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/harshita-d12/Stack-Algorithms/pulls)
+## 📌 About the Repository
 
-</div>
+Each problem from the playlist is implemented in Java, with easy-to-understand logic and clear file naming. Perfect for beginners and anyone preparing for coding interviews.
 
-## 📋 Table of Contents
-- [🚀 Features](#-features)
-- [🧩 Problem Categories](#-problem-categories)
-- [🏆 Benchmark Results](#-benchmark-results)
-- [🛠️ Usage](#%EF%B8%8F-usage)
-- [🧪 Testing](#-testing)
-- [📚 Resources](#-resources)
-- [🤝 Contributing](#-contributing)
-- [📬 Contact](#-contact)
+---
 
-## 🚀 Features
+## 🧠 Problem List with Java Files
 
-```diff
-+ 14 carefully implemented stack problems
-+ Follows Aditya Verma's optimization techniques
-+ Detailed comments explaining each algorithm step
-+ Both brute-force and optimal solutions included
-+ Ready-to-run Java files with sample inputs
+| 🔢 No. | 📌 Problem Title | 📁 Java File |
+|-------|------------------|--------------|
+| 1 | Maximum Area of Binary Matrix | `maxAreaBinaryMatrix.java` |
+| 2 | Maximum Area of Histogram | `maxAreaHistogram.java` |
+| 3 | Minimum Element Without Extra Space | `minElementWithoutSpace.java` |
+| 4 | Minimum Element With Extra Space | `minElementWithSpace.java` |
+| 5 | Next Greater Element | `nextGreaterElement.java` |
+| 6 | Next Greater Left | `nextGreaterLeft.java` |
+| 7 | Next Greater Left Index | `nextGreaterLeftIndex.java` |
+| 8 | Next Greater Right Index | `nextGreaterRightIndex.java` |
+| 9 | Next Smaller Element | `nextSmallerElement.java` |
+| 10 | Next Smaller Left | `nextSmallerLeft.java` |
+| 11 | Next Smaller Left Index | `nextSmallerLeftIndex.java` |
+| 12 | Next Smaller Right Index | `nextSmallerRightIndex.java` |
+| 13 | Stock Span | `stockSpan.java` |
+| 14 | Trapping Rainwater | `trappingRainwater.java` |
 
-## 🧩 Problem Categories
+---
 
-### 🔍 Element Search Problems
-| Problem | Solution | Time | Space | Video |
-|---------|----------|------|-------|-------|
-| Next Greater Element | `nextGreaterElement.java` | O(n) | O(n) | [▶️]() |
-| Next Smaller Right | `nextSmallerRightIndex.java` | O(n) | O(n) | [▶️]() |
-| Stock Span Problem | `stockSpan.java` | O(n) | O(n) | [▶️]() |
+## 🙏 Credits
 
-### 📏 Area Calculations
-| Problem | Solution | Time | Space | Video |
-|---------|----------|------|-------|-------|
-| Max Area Histogram | `maxAreaHistogram.java` | O(n) | O(n) | [▶️]() |
-| Trapping Rainwater | `trappingRainwater.java` | O(n) | O(n) | [▶️]() |
-| Binary Matrix Area | `maxAreaBinaryMatrix.java` | O(n²) | O(n) | [▶️]() |
+- 🎓 **Aditya Verma** – [LinkedIn](https://www.linkedin.com/in/adityaverma1999/)
+- 📺 [Stack YouTube Playlist](https://youtube.com/playlist?list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd&si=M40QMsPUdOG6-To5)
 
-### ⚡ Optimized Stacks
-| Problem | Solution | Time | Space |
-|---------|----------|------|-------|
-| Min Stack (Extra Space) | `minElementWithSpace.java` | O(1) | O(n) |
-| Min Stack (No Space) | `minElementWithoutSpace.java` | O(1) | O(1) |
+> This repository is solely for educational purposes. All content rights belong to Aditya Verma.
 
-## 🏆 Benchmark Results
+---
 
-```mermaid
-barChart
-    title Time Complexity Comparison
-    x-axis Problem
-    y-axis Time
-    bar nextGreaterElement: 1
-    bar maxAreaHistogram: 1
-    bar trappingRainwater: 1
-    bar minElementStack: 0.1
+## ⚙️ Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 👩‍💻 Author
+
+**Harshita Dutta**
+
+🔗 [GitHub](https://github.com/harshita-d12) | 💼 [LinkedIn](https://www.linkedin.com/in/harshitadutta/)
+
+---
+
+⭐ If you found this helpful, consider giving the repo a star!
