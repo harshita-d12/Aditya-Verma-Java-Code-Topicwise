@@ -1,7 +1,3 @@
-
-Here's the complete **README.md file content** that you can directly copy and paste into your new repository:
-
-```markdown
 # 🧱 Stack-Based Problems Series in Java – Inspired by Aditya Verma
 
 This repository provides Java implementations for classic **Stack-based algorithm problems**, guided by the excellent explanations in [Aditya Verma's YouTube Series](https://youtube.com/playlist?list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd&si=M40QMsPUdOG6-To5). Whether you're preparing for coding interviews or brushing up on your DSA skills, this collection will be your handy companion.
@@ -59,6 +55,3 @@ This repo includes clean and beginner-friendly Java code for problems based on s
 ---
 
 ⭐ If this repo helped you understand stack problems better, don’t forget to give it a star!
-```
-
-Let me know if you want me to add GitHub topic tags or badges for forks, stars, or issues.
