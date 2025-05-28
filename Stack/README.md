@@ -71,7 +71,7 @@
 ## 👩‍💻 About the Author
 
 Hi! I'm **Harshita Dutta** 👋  
-I enjoy breaking down complex problems into simple Java code and sharing it to help other learners and interviewees.
+I enjoy breaking down complex problems into simple Java code and sharing it to help other learners.
 
 📍 Jaipur, India  
 🔗 [LinkedIn](https://www.linkedin.com/in/harshitadutta/) • [GitHub](https://github.com/harshita-d12)
@@ -88,7 +88,7 @@ All video explanations belong to him—this repo is solely for educational purpo
 ## 🌟 Like This Repo?
 
 If this helped you or you learned something new, please **leave a ⭐**  
-Your support keeps me coding (and caffeinated ☕)!
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
