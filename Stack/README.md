@@ -1,58 +1,59 @@
-# 🧱 Java Solutions to Stack-Based Problems from Aditya Verma's Playlist
+# 🏗️ Stack Algorithm Series in Java – Aditya Verma Playlist
 
-This repository contains **Java implementations** of classic **stack-based problems** taught in [Aditya Verma's YouTube series](https://youtube.com/playlist?list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd&si=M40QMsPUdOG6-To5). These are direct solutions based on his video tutorials and follow the same problem order and logic.
-
----
-
-## 📘 About the Repository
-
-Each problem discussed in the playlist is solved in Java with clear, beginner-friendly code. File names are intuitive and correspond to the exact topic covered in the video, making it easy to navigate and follow along.
+This repository contains Java implementations of essential **Stack** problems, following the expert explanations by [Aditya Verma](https://www.linkedin.com/in/adityaverma1999/). Code along with the [YouTube Playlist](https://youtube.com/playlist?list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd) to master stack-based problem solving.
 
 ---
 
-## 🧩 Problem List with Java Files
+## 📌 Repository Overview
 
-| 🔢 No. | 🧠 Problem Name | 📄 Java File |
+Each problem is implemented in Java with clean, well-commented code. The files are named intuitively to match Aditya Verma's video lessons. Ideal for interview preparation and strengthening DSA fundamentals.
+
+---
+
+## 🧠 Problem Catalog with Java Implementations
+
+| 🔢 No. | 📌 Problem Title | 📁 Java File |
 |-------|------------------|--------------|
-| 1 | Maximum Area in Binary Matrix | `maxAreaBinaryMatrix.java` |
+| 1 | Maximum Area of Binary Matrix | `maxAreaBinaryMatrix.java` |
 | 2 | Maximum Area Histogram | `maxAreaHistogram.java` |
 | 3 | Minimum Element Without Extra Space | `minElementWithoutSpace.java` |
 | 4 | Minimum Element With Extra Space | `minElementWithSpace.java` |
-| 5 | Next Greater Element (to right) | `nextGreaterElement.java` |
+| 5 | Next Greater Element | `nextGreaterElement.java` |
 | 6 | Next Greater Element to Left | `nextGreaterLeft.java` |
-| 7 | Index of Next Greater Element to Left | `nextGreaterLeftIndex.java` |
-| 8 | Index of Next Greater Element to Right | `nextGreaterRightIndex.java` |
-| 9 | Next Smaller Element (to right) | `nextSmallerElement.java` |
+| 7 | Next Greater Left (Index Version) | `nextGreaterLeftIndex.java` |
+| 8 | Next Greater Right (Index Version) | `nextGreaterRightIndex.java` |
+| 9 | Next Smaller Element | `nextSmallerElement.java` |
 | 10 | Next Smaller Element to Left | `nextSmallerLeft.java` |
-| 11 | Index of Next Smaller Element to Left | `nextSmallerLeftIndex.java` |
-| 12 | Index of Next Smaller Element to Right | `nextSmallerRightIndex.java` |
+| 11 | Next Smaller Left (Index Version) | `nextSmallerLeftIndex.java` |
+| 12 | Next Smaller Right (Index Version) | `nextSmallerRightIndex.java` |
 | 13 | Stock Span Problem | `stockSpan.java` |
-| 14 | Trapping Rainwater | `trappingRainwater.java` |
+| 14 | Trapping Rainwater Problem | `trappingRainwater.java` |
 
 ---
 
-## 🎓 Source & Credits
+## 🙏 Acknowledgments
 
-- 👨‍🏫 **Aditya Verma** – [LinkedIn](https://www.linkedin.com/in/adityaverma1999/)
-- 📺 [Stack-Based Playlist on YouTube](https://youtube.com/playlist?list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd&si=M40QMsPUdOG6-To5)
+- 🎓 **Aditya Verma** – [LinkedIn Profile](https://www.linkedin.com/in/adityaverma1999/)
+- 📺 [Stack Problems YouTube Playlist](https://youtube.com/playlist?list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd)
 
-> These solutions are strictly based on Aditya Verma’s original video content. All rights to the educational content belong to him.
+> This repository is educational. All conceptual credits belong to Aditya Verma.
 
 ---
 
-## 💻 Tech Stack Used
+## ⚙️ Technology Used
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ---
 
-## 👩‍💻 Author
+## 👩‍💻 Maintainer
 
 **Harshita Dutta**  
-🔗 [GitHub](https://github.com/harshita-d12) | 💼 [LinkedIn](https://www.linkedin.com/in/harshitadutta/)
+
+🔗 [GitHub Profile](https://github.com/harshita-d12) | 💼 [LinkedIn](https://www.linkedin.com/in/harshitadutta/)
 
 ---
 
-⭐ If you found this helpful for your DSA prep, consider giving the repo a star!
+⭐ Found this useful? Please consider starring the repository to support!
