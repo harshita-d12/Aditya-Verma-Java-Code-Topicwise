@@ -18,11 +18,11 @@ This repo includes clean and beginner-friendly Java code for problems based on s
 | 2 | Maximum Area Histogram | `maxAreaHistogram.java` |
 | 3 | Minimum Element Without Extra Space | `minElementWithoutSpace.java` |
 | 4 | Minimum Element With Extra Space | `minElementWithSpace.java` |
-| 5 | Next Greater Element | `nextGreaterElement.java` |
+| 5 | Next Greater Element(to Right) | `nextGreaterElement.java` |
 | 6 | Next Greater Element to Left | `nextGreaterLeft.java` |
 | 7 | Index of Next Greater Element to Left | `nextGreaterLeftIndex.java` |
 | 8 | Index of Next Greater Element to Right | `nextGreaterRightIndex.java` |
-| 9 | Next Smaller Element | `nextSmallerElement.java` |
+| 9 | Next Smaller Element(to Right) | `nextSmallerElement.java` |
 | 10 | Next Smaller Element to Left | `nextSmallerLeft.java` |
 | 11 | Index of Next Smaller Element to Left | `nextSmallerLeftIndex.java` |
 | 12 | Stock Span Problem | `stockSpan.java` |
